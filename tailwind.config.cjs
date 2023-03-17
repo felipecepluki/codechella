@@ -17,7 +17,12 @@ module.exports = {
         bannerExperience: "url('/src/assets/experience/banner.png')",
         bannerSectors: "url('/src/assets/maps/banner.png')",
         bannerInformation: "url('/src/assets/information/banner.png')",
+        bannerTicket: "url('/src/assets/ticket/banner.png')",
+        bannerShop: "url('/src/assets/success-shop/banner.png')",
         festival: "url('/src/assets/home/festival.svg')",
+      },
+      boxShadow: {
+        ticket: "4px 4px 8px rgba(0, 0, 0, 0.15)",
       },
     },
   },

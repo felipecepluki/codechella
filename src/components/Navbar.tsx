@@ -27,7 +27,7 @@ export function Navbar() {
           Informações
         </NavLink>
         <NavLink
-          to="/ingresso-comprado"
+          to="/ticket"
           className="font-raleway font-bold text-xl leading-10 text-white"
         >
           Ingresso

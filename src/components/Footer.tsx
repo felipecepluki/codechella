@@ -1,6 +1,6 @@
 import Instagram from "../assets/social/instagram.svg";
 import Twitch from "../assets/social/twitch.svg";
-import Twitter from "../assets/social/twitch.svg";
+import Twitter from "../assets/social/twitter.svg";
 import WhatsApp from "../assets/social/whatsapp.svg";
 import LogoText from "../assets/social/logo-text.svg";
 
